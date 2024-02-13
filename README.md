@@ -13,8 +13,12 @@ I am a person dedicated to studying and currently #Developer #Data Center #IAC #
  I'm currently studying Node.JS, my first programming project and I'm excited to continue 💪
 My GitHub repositories feature all my studies that I use when creating new projects
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Thiago-Leandro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Thiago-Leandro&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/Thiago-Leandro/github-readme-stats&show_icons=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago-Leandro" />
+</a>
+<a href="https://github.com/Thiago-Leandro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Leandro&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!---
 Thiago-Leandro/Thiago-Leandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
