@@ -14,10 +14,10 @@ I am a person dedicated to studying and currently #Developer #Data Center #IAC #
 My GitHub repositories feature all my studies that I use when creating new projects
 
 <a href="https://github.com/Thiago-Leandro/github-readme-stats&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago-Leandro" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago-Leandro" />
 </a>
 <a href="https://github.com/Thiago-Leandro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Leandro&layout=compact&langs_count=8&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Leandro&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!---
