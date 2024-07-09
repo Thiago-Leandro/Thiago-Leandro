@@ -10,7 +10,7 @@ I am a person dedicated to studying and currently #Developer #Data Center #IAC #
 
 - 🌱 I’m currently learning
 
- I'm currently studying Node.JS, my first programming project and I'm excited to continue 💪
+ I'm currently studying .NET, my first programming project and I'm excited to continue 💪
 My GitHub repositories feature all my studies that I use when creating new projects
 
 <a href="https://github.com/Thiago-Leandro/github-readme-stats&show_icons=true">
